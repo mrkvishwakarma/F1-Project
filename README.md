@@ -2,13 +2,7 @@
 # Azure Databricks for Formula1 Data Engineering Project
 
 ## Welcome!
-I am looking forward to helping you learn one of the in-demand data engineering tools in the cloud, Azure Databricks! This course focuses on implementing a data engineering solution using Azure Databricks and Spark core for a real-world project of analyzing and reporting on Formula1 motor racing data.
-
-This course is unique among Udemy offerings for Azure Databricks. Once you have completed the course and all the assignments, I strongly believe you will be ready to start a real-world data engineering project on your own and become proficient in Azure Databricks. Additionally, the course includes lessons on Azure Data Lake Storage Gen2, Azure Data Factory, and PowerBI. The primary focus is on Azure Databricks and Spark core, but it also covers relevant concepts and connectivity to the other mentioned technologies. Please note that the course doesn't cover Spark streaming or Spark ML and has been taught using PySpark and Spark SQL; it doesn't cover Scala or Java.
-
-The course follows a logical progression of a real-world project implementation with technical concepts explained as the Databricks notebooks are built simultaneously. Even though this course is not specifically designed to teach the skills required for passing the Azure Data Engineer Associate Certification Exam DP203, it can greatly help you acquire most of the necessary skills for the exam. Similarly, the course teaches the skills required to pass the Databricks Certified Data Engineer Associate Certification.
-
-I value your time as much as I do mine, so I have designed this course to be fast-paced and to the point. Also, the course has been taught in simple English with no jargon. I start from the basics, and by the end of the course, you will be proficient in the technologies used.
+This project is based on in-demand data engineering tools in the cloud, Azure Databricks! 
 
 ## Project Goals
 ### Azure Databricks
@@ -69,6 +63,9 @@ By the end of this project, you will:
 - Monitor and manage data pipelines effectively.
 
 ## Visuals
+
+### Project Solution
+![Project Solution Architecture](./images/solution.png)
 
 ### F1-Entity Relationship Diagram
 ![Entity Relationship Diagram](./images/f1_db_erd.png)
