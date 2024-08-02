@@ -54,35 +54,11 @@ I value your time as much as I do mine, so I have designed this course to be fas
 - Scheduling the pipelines using Data Factory triggers to execute at regular intervals.
 - Monitoring the triggers/pipelines to check for errors/outputs.
 
-## Who This Course Is For
+## Who This Project Is For
 - University students looking for a career in Data Engineering.
 - IT developers working in other disciplines who want to move to Data Engineering.
 - Data Engineers/Data Warehouse Developers currently working on on-premises technologies or other cloud platforms like AWS or GCP who want to learn Azure Data Technologies.
 - Data Architects looking to gain an understanding of the Azure Data Engineering stack.
-
-## Getting Started
-### Prerequisites
-- An Azure Subscription.
-- Basic understanding of data engineering concepts.
-- Familiarity with Azure services (Databricks, ADLS, ADF, Key Vault, etc.).
-
-### Setup Instructions
-1. **Create Azure Resources**
-   - Set up Azure Databricks, Data Lake Storage, Key Vault, and other necessary resources.
-
-2. **Clone the Repository**
-   - Clone this repository to your local machine using:
-     ```bash
-     git clone https://github.com/yourusername/azure-databricks-project.git
-     ```
-
-3. **Configure Environment**
-   - Update configuration files with your Azure resource details.
-   - Set up necessary configurations in Azure Databricks and other services.
-
-4. **Run Notebooks**
-   - Deploy and run the Databricks notebooks for data ingestion, transformation, and analysis.
-   - Monitor notebook executions and troubleshoot any issues.
 
 ## Learning Outcomes
 By the end of this project, you will:
@@ -91,28 +67,6 @@ By the end of this project, you will:
 - Learn how to automate and schedule data workflows using ADF.
 - Implement security best practices using Azure Key Vault.
 - Monitor and manage data pipelines effectively.
-
-# F1-Project
-
-## Overview
-
-This project aims to provide data engineers with a comprehensive understanding of using Azure Databricks and Spark Core. 
-In this project, we will explore and process data related to Formula One motor racing. The objective is to understand the data structure, manipulate different file formats, and gain insights from the data. Formula One, like other major sports leagues, has a structured season with multiple races, teams, drivers, and complex rules.
-
-## Project Goals
-
-1. **Data Ingestion**: Load and explore the various data files.
-2. **Data Transformation**: Process and clean the data, handling different file formats.
-3. **Data Analysis**: Perform exploratory data analysis to gain insights into the data.
-4. **Visualization**: Create visual representations of the data to illustrate key findings.
-5. **Documentation**: Document the process, findings, and insights in a structured manner.
-6. **Data Engineering Pipelines**: Design and implement end-to-end data engineering pipelines using Azure Databricks to automate data ingestion, processing, and analysis.
-7. **Cluster Configuration**: Configure and optimize clusters in Azure Databricks for efficient data processing.
-8. **Azure Data Factory**: Utilize Azure Data Factory for orchestrating data workflows and managing data pipelines.
-9. **Azure Key Vault**: Implement Azure Key Vault for secure storage and management of secrets, keys, and configurations.
-10. **ETL Processes**: Develop Extract, Transform, Load (ETL) processes to ensure data is efficiently and accurately integrated from various sources.
-11. **Data Storage**: Utilize appropriate data storage solutions to store processed data for easy access and analysis.
-12. **Data Quality and Validation**: Implement data quality checks and validation steps to ensure the integrity and accuracy of the data throughout the pipeline.
 
 ## Visuals
 
