@@ -53,7 +53,7 @@ In this project, we will explore and process data related to Formula One motor r
 ![Entity Relationship Diagram](./images/f1_db_erd.png)
 
 ### Ingestion Pipelines
-![Ingestion File Pipeline](./images/ingestion_file_pipeline.png)
+![Ingestion File Pipeline](./images/ingestion_files_pipeline.png)
 
 ### Transformation Pipeline
 ![Transformation Pipeline](./images/trans_pipeline.png)
