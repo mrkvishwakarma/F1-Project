@@ -30,16 +30,9 @@ This project is based on in-demand data engineering tools in the cloud, Azure Da
 ### Delta Lake
 - Emergence of Data Lakehouse architecture and the role of Delta Lake.
 - Reading, Writing, Updating, Deleting, and Merging to Delta Lake using both PySpark and SQL.
-- History, Time Travel, and Vacuum.
+- History and Time Travel.
 - Converting Parquet files to Delta files.
 - Implementing incremental load patterns using Delta Lake.
-
-### Unity Catalog
-- Overview of Data Governance and Unity Catalog.
-- Creating Unity Catalog Metastore and enabling a Databricks workspace with Unity Catalog.
-- Overview of 3-level namespace and creating Unity Catalog objects.
-- Configuring and accessing external data lakes via Unity Catalog.
-- Development of a mini-project using Unity Catalog to see key data governance capabilities offered by Unity Catalog such as Data Discovery, Data Audit, Data Lineage, and Data Access Control.
 
 ### Azure Data Factory
 - Creating pipelines to execute Databricks notebooks.
