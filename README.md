@@ -41,12 +41,6 @@ This project is based on in-demand data engineering tools in the cloud, Azure Da
 - Scheduling the pipelines using Data Factory triggers to execute at regular intervals.
 - Monitoring the triggers/pipelines to check for errors/outputs.
 
-## Who This Project Is For
-- University students looking for a career in Data Engineering.
-- IT developers working in other disciplines who want to move to Data Engineering.
-- Data Engineers/Data Warehouse Developers currently working on on-premises technologies or other cloud platforms like AWS or GCP who want to learn Azure Data Technologies.
-- Data Architects looking to gain an understanding of the Azure Data Engineering stack.
-
 ## Learning Outcomes
 By the end of this project, you will:
 - Understand how to use Azure Databricks for end-to-end data engineering tasks.
